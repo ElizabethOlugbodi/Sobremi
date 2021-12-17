@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Corinthia:wght@700&family=Volkhov:ital@1&display=swap');
+
+h1 {
+   color:black;
+    font: 100px;
+    text-align: center;
+}
+
+img{width:50%;
+}
+
+h2 {
+    color:green;
+    font-size: 40px;
+    text-align:center;
+}
+
+h3 { display:flex;
+    justify-content:space-between;
+    text-align:center;
+    text-decoration: none;
+
+}
+
+h4 {
+    font-family: 'Corinthia', cursive;
+font-family: 'Volkhov', serif;
+    color:mediumblue;
+    text-align:justify;
+
+    
+}
+body {background-color:blanchedalmond;
+}
+
+.largetext {
+    font-size:20px;
+}
+
+.centredtext {
+    text-align: center;
+}
+
+.menu {
+    height: 50px;
+    background-color:blue; 
+    border:darkgray;
+}
+#content {
+    background-color:darkorchid;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#content a{
+    background-color:darkorchid;
+    padding: 12px;
+    color:orange;
+}
+
+.menus{padding: 5px;}
